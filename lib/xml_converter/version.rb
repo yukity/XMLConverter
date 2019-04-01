@@ -1,3 +1,3 @@
-module XMLConverter
+class XMLConverter
   VERSION = "0.1.0"
 end
